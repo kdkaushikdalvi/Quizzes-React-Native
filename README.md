@@ -1,5 +1,5 @@
 # Quizzes #
-Quizzes is game app for multiple choice questions and winner gets grdes and points.
+Quizzes is game app for multiple choice questions and winner gets rewards and points.
 
 ### React Native Version ###
 
